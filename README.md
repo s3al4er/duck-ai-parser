@@ -7,7 +7,4 @@
 "claude-haiku-4-5", "gpt-5.4-mini", "gpt-5.4-nano", "tinfoil/gpt-oss-120b", "mistral-small-2603"
 ```
 
-Для работы скрипта нужны следующие библиотеки:
-```
-DrissionPage, requests
-```
+Для работы скрипта нужна библиотека ```DrissionPage```
